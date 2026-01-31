@@ -4,18 +4,18 @@ A SQL and POWER BI project that examine New York City Traffic Accidents data, ai
 
 ## Table of Content
 
-- [Project Overview](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#project-overview)
-- [Project Scope](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#project-scope)
-- [Business Objective](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#business-objective)
-- [Document Purpose](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#document-purpose)
-- [Use Case](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#use-case)
-- [Skills Demostrated](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#skills-demostrated)
-- [Data Source](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#data-source)
-- [Data Cleaning and Processing](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#data-cleaning-and-processing)
-- [Data Analysis and Insight](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#data-analysis-and-insight)
-- [Data Visualization](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents#data-visualization)
-- [Recommendation](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#recommendation)
-- [Conclusion](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents?tab=readme-ov-file#conclusion)
+- [Project Overview](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#project-overview)
+- [Project Scope](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#project-scope)
+- [Business Objective](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#business-objective)
+- [Document Purpose](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#document-purpose)
+- [Use Case](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#use-case)
+- [Skills Demostrated](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#skills-demostrated)
+- [Data Source](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#data-source)
+- [Data Cleaning and Processing](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#data-cleaning-and-processing)
+- [Data Analysis and Insight](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#data-analysis-and-insight)
+- [Data Visualization](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#data-visualization)
+- [Recommendation](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#recommendation)
+- [Conclusion](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents#conclusion)
 
 ## Project Overview
 
@@ -101,7 +101,7 @@ A primary key ensures that each record in the table is uniquely identified. This
 
 After the execution of data cleaning and processing, the dataset for this analysis is now well-structured, consistent, and free from significant issues that could hinder analysis or interpretation. The data adheres to standardized formats and consistent naming conventions. All necessary data fields are present and well populated, the data values are accurate, data types are appropriately assigned to each column, and there are no duplicate records. 
 
-For the complete data cleaning processes, Click [Here](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents/blob/main/Data_cleaning.pdf)
+For the complete data cleaning processes, Click [Here](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents/blob/main/NYC%20Data%20Cleaning.pdf)
 
 ## Data Analysis and Insight
 
@@ -295,7 +295,7 @@ From the above analysis;
 
 This data visualization was created using Power BI, each visual created displays information for each question in the business objective.
 
-![](https://github.com/OchukoEjemudaro/New-York-City-Traffic-Accidents/blob/main/Dashboard.png)
+![](https://github.com/marsiloladejo7-wq/New-York-City-Traffic-Accidents/blob/main/Dashboard.png)
 
 You can also interact with the report [Here](https://app.powerbi.com/view?r=eyJrIjoiMDllNGM1YzEtODkxZS00NTUxLWIxMTAtNDJmM2ExNGRhZDYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
@@ -319,7 +319,7 @@ Thank You For Reading
 
 I’m interested in a Data Analyst role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
 
-You can reach me on ochukoejemudaro@gmail.com or [Twitter](https://twitter.com/iamochuks/) or [LinkedIn](https://www.linkedin.com/in/ochukoejemudaro01)
+You can reach me on marsiloladejo7@gmail.com
 
 THANK YOU
 
